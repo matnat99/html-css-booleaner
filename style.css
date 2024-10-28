@@ -7,3 +7,19 @@ header{
     width: 250px;
     height: 200px;
 }
+
+h1{
+    font-size: 35px;
+}
+
+.gray{
+    color: #808080;
+}
+
+#data{
+    font-size: 10px;
+}
+
+a{
+    text-decoration: none;
+}
