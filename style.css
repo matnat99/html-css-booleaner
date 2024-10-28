@@ -23,3 +23,16 @@ h1{
 a{
     text-decoration: none;
 }
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.azure{
+    background-color: #B1E5F2;
+}
+
+#size{
+    width: 60%;
+}
